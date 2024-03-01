@@ -3,7 +3,7 @@
 <html>
     <head>
         <style>
-        #para1 {
+          #para1 {
             text-align: center;
             color: red;
         }
