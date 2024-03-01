@@ -2,8 +2,8 @@
 <!DOCTYPE html> 
 <html>
     <head>
-        <style>
-          #para1 {
+      <style>
+        #para1 {
             text-align: center;
             color: red;
         }
