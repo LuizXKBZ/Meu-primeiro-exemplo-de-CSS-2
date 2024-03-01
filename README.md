@@ -1,5 +1,5 @@
 # Meu-primeiro-exemplo-de-CSS-2
-<! DOCTYPE html> 
+<!DOCTYPE html> 
 <html>
     <head>
       <style>
