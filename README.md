@@ -2,7 +2,7 @@
 <!DOCTYPE html> 
 <html>
     <head>
-      <style>
+        <style>
         #para1 {
             text-align: center;
             color: red;
